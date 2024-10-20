@@ -49,7 +49,7 @@ const Contact = () => {
           alt="terminal background"
           className="absolute inset-0 min-h-screen"
         />
-        <div className="contact-container top-1">
+        <div className="contact-container top-10">
           <h3 className="head-text">Let&apos;s talk</h3>
           <p className="text-lg text-white-600 mt-3">
             Whether you&apos;re looking to build a new website, improve your
